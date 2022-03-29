@@ -321,7 +321,7 @@ hightlight(suggestion){
 
 
 
-## 给子组件用v-mode
+## 给子组件用v-model
 
 当我们父子组件都有需要用到的数据时，可以直接给子组件一个v-model,
 
@@ -712,5 +712,4 @@ function redirectLogin(){
 ![image-20220120194627226](头条-移动端项目-笔记随记.assets/image-20220120194627226.png)
 
 配置launch_path  需要其他人进行运行需要配线上地址。
-
 
